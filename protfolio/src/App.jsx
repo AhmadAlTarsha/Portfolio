@@ -1,13 +1,17 @@
 import React from "react"
 import NavBar from "./comopnents/NavBar"
 import {FaBars} from "react-icons/fa"
+import Home from "./comopnents/Home"
 
 
 function App() {
  
 
   return (
-<NavBar/>
+    <div>
+      <NavBar/>
+<Home/></div>
+
   )
 }
 
