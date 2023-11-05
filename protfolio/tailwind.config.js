@@ -10,9 +10,15 @@ export default {
       fontFamily:{
         signature :["Great Vibes"]
         
-      }
+        
+      },
+      screens: {
+        'mobile': '270px',
     },
+    },
+
   },
+
   plugins: [],
 }
 
